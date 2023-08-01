@@ -51,7 +51,8 @@ For better display comfort, i'll recomand you changing the LCD panel with FHD 19
 - ECEnabler Kext (Battery Infos): [Here](https://github.com/1Revenger1/ECEnabler).
 
 ## Special Thanks
-- Every Hackintosh Community: Specially InsanelyMac, Olarila, AppleLife.ru, Hackintosh-Montreal.com, Hackintosh-Forum.de, Hackintosh-Inc.de and many, but never > tonymacx86 for "charlatanism things" no never. ! 
+- Every Hackintosh Community: Specially InsanelyMac, Olarila, AppleLife.ru, Hackintosh-Montreal.com, Hackintosh-Forum.de, Hackintosh-Inc.de and many, but never:
+  > tonymacx86 for "charlatanism things" no never! 
 - vit9696 and The HermitCrabs Lab.
 - CorpNewt
 - Laura Müller (Mieze)
