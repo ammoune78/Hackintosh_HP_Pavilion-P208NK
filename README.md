@@ -40,15 +40,15 @@ Kee in ming that if you're using this build for another similar HP lapto with th
 For better display comfort, i'll recomand you changing the LCD panel with FHD 1920 * 1080. This will let you enjoy your laptop more on every OS, not only APPLE's one.
 
 ## Things that you may need:
-Acidanthera's Life's Easier for us: [Here]([url]https://github.com/acidanthera)
-OpenCore: [Here]([url]https://github.com/acidanthera/OpenCorePkg)
-Python: [Here]([url](https://www.python.org/downloads/))
-CorpNewt's Life's Easier for us: [Here]([url](https://github.com/corpnewt))
-ProperTree: [Here]([url](https://github.com/corpnewt/ProperTree))
-GenSMBIOS: [Here]([url](https://github.com/corpnewt/GenSMBIOS))
-gibMacOS: [Here]([url](https://github.com/corpnewt/gibMacOS))
-One-Key-CPUFriend: [Here]([url](https://github.com/stevezhengshiqi/one-key-cpufriend))
-ECEnabler Kext (Battery Infos): [Here]([url](https://github.com/1Revenger1/ECEnabler))
+Acidanthera's Life's Easier for us: [Here](https://github.com/acidanthera)
+OpenCore: [Here](https://github.com/acidanthera/OpenCorePkg)
+Python: [Here](https://www.python.org/downloads/)
+CorpNewt's Life's Easier for us: [Here](https://github.com/corpnewt)
+ProperTree: [Here](https://github.com/corpnewt/ProperTree)
+GenSMBIOS: [Here](https://github.com/corpnewt/GenSMBIOS)
+gibMacOS: [Here](https://github.com/corpnewt/gibMacOS)
+One-Key-CPUFriend: [Here](https://github.com/stevezhengshiqi/one-key-cpufriend)
+ECEnabler Kext (Battery Infos): [Here](https://github.com/1Revenger1/ECEnabler)
 
 ## Special Thanks
 - Every Hackintosh Community: Specially InsanelyMac, Olarila, AppleLife.ru, Hackintosh-Montreal.com, Hackintosh-Forum.de, Hackintosh-Inc.de and many, but never tonymacx86 for "charlatanism things" no never! 
