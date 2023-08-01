@@ -99,12 +99,23 @@ Last and not least, for better display comfort, i'll recomand you changing the L
 
 ## Special Thanks
 - Every Hackintosh Community: Specially InsanelyMac, Olarila, AppleLife.ru, Hackintosh-Montreal.com, Hackintosh-Forum.de, Hackintosh-Inc.de and many, but never:
-  > tonymacx86 for "charlatanism things" no never! 
+  > - tonymacx86 for "charlatanism things", yes, i'll never! But, i give a thanks to users on their website here: ## FormerUser-435514 
 - vit9696 and The HermitCrabs Lab.
 - CorpNewt
 - Laura Müller (Mieze)
 - [FormerUser-435514]([url](https://www.tonymacx86.com/threads/guide-hp-pavilion-15-ab216tx-catalina-using-opencore.285539/)) for his guid, who helped me a lot in thinking that my laptop is able to receive macOS installation.
 - [dkoluris]([url](https://github.com/dkoluris/HP-PROBOOK-470-G2-OpenCore)) for using a simple and clean EFI folder without ACPI altering, and only using ECEnabler for battery management & infos
 
+
 ## My bad salutation to TonyMacX86
-> - You have a lot of bad track records with me and, especially for banning users who did nothing wrong, bad or things prohibited, following your policy that you don't follow in every aspect. I'm not the first banned, and sertennely not the last one, but i use these words to prevent people, who aren't conscious of your Darkest and Impostor devilous, charlatan step. 
+> - You have a lot of bad track records with me and, especially for banning users who did nothing wrong, bad or things prohibited, following your policy that you don't follow in every aspect. I'm not the first banned, and sertennely not the last one, but i use these words to prevent people, who aren't conscious of your Darkest and Impostor devilous, charlatan step:
+> - The beginning was, after posting a patch request for my GA-Z87X-UD4H, you stopped me from entering that Thread. Months after posting my patch for this board at InsanelyMac, pjalm attaqued me there, because i posted my patch, which was build by me. The attack then, has been rejected by the site owner, after examining all my code, which by the way, was having better code than pjalm's one.
+> - Months after, pjalm posted my patch for the GA-Z87X-UD4H in the GIGABYTE MaciASL patch repository, and adding it also to the other GIGABYTE Z87 series MaciASL patch repository, thing that wasn't there at the moment of my request and before i posted my patch. This was ridiculous after seing it, and without a shame posting my patch without my consent.
+> - years after, i requested from rehabman, who was the master piece on that website "keeping it alive in life" a solution for my previous pavilion core2duo laptop. Months after i posted a complete patch for that laptop, requesting rehabman adding it into his repository, thing that hasn't been done.
+> - years after, the past two months, i posted a request for this laptop "Pavilion P208NK", minutes after, the post was deleted. I posted then, (Why i can't see my post?), then this second post has been deleted, wow, nice! I then posted the same first request, thinking that i didn't saved the comments before, then the TOP THING WAS MADE, they banned me for cause "?", really i don't know from the beginning!!!!!
+
+
+## Who are TonyMacx86? Take a look by yourself here:
+> - [Why InsanelyMac does not support tonymacx86](https://www.insanelymac.com/forum/topic/279450-why-insanelymac-does-not-support-tonymacx86/)
+> - [I got banned on tonyMacx86, what do I do?](https://www.insanelymac.com/forum/topic/316980-i-got-banned-on-tonymacx86-what-do-i-do/)
+> - [Tonymacx86-stance](https://github.com/khronokernel/Tonymacx86-stance)
