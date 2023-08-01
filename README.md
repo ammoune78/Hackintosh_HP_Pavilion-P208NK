@@ -1,4 +1,4 @@
-![Ethernet](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/0e104dda-57a3-42ff-91bd-806654c121db)# Hackintosh_HP_Pavilion-P208NK
+# Hackintosh_HP_Pavilion-P208NK
 
 ![HP-Pavilion_P208NK](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/133e37a6-b11b-4146-9b4d-8e3f08e09b39)
 
