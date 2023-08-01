@@ -1,5 +1,8 @@
 # Hackintosh_HP_Pavilion-P208NK
 
+![HP-Pavilion_P208NK](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/133e37a6-b11b-4146-9b4d-8e3f08e09b39)
+
+
 ## Overview:
 
 In this repos, you'll have a complete EFI folder, that will let you install up to macOS Catalina, on this laptop.
