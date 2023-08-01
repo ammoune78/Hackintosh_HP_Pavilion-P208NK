@@ -107,4 +107,4 @@ Last and not least, for better display comfort, i'll recomand you changing the L
 - [dkoluris]([url](https://github.com/dkoluris/HP-PROBOOK-470-G2-OpenCore)) for using a simple and clean EFI folder without ACPI altering, and only using ECEnabler for battery management & infos
 
 ## My bad salutation to TonyMacX86
-> - you have a lot of bad track records, especially banning users for doing nothing wrong, bad, things prohibited by your policy that you don't follow in every aspect. I'm not the first banned, and sertennely not the last one. And i use these words to prevent people from your Dark and impostor devilous step. 
+> - You have a lot of bad track records with me and, especially for banning users who did nothing wrong, bad or things prohibited, following your policy that you don't follow in every aspect. I'm not the first banned, and sertennely not the last one, but i use these words to prevent people, who aren't conscious of your Darkest and Impostor devilous, charlatan step. 
