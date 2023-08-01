@@ -1,7 +1,5 @@
 # Hackintosh_HP_Pavilion-P208NK
 
-# Install up to macOS Catalina in your Pavilion P208NK, just like a MacBook Pro 12,1!
-
 ## Overview:
 
 In this repos, you'll have a complete EFI folder, that will let you install up to macOS Catalina, on this laptop.
