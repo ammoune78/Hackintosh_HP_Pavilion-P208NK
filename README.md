@@ -70,15 +70,20 @@ This laptop can let you install 3 drive in the same time:
 ## What Works:
 - Everything (*x 2)
 
+
 ## What doesn't works:
 - nVIDIA GeForce 820m *
-- Wireless card needs to be replaced *
+- Original Wireless card needs to be replaced *
+
 
 ## Instructions:
-This EFI is purely minimalist in therms of config used options, including ACPI battery code that wasn't used, to don't alter UEFI firmware. A kext is now used to manage Battery Level & Charging including the AC Power Adapter.
-The OpenCore version used is the 0.9.3, and you'll find in the releases section, every opencore version that ive added to this repository. You'll have to generate your own credible serials, add your proper Wireless Kexts as far as you swap your WiFi card with another one.
-Kee in ming that if you're using this build for another similar HP lapto with the same Intel CPU generation (Broadwell), you'll have to generate your own CPUFriendData kernel extension to lower the CPU frequency, otherwise the frequency will remain over the 1,20 GHz.
-For better display comfort, i'll recomand you changing the LCD panel with FHD 1920 * 1080. This will let you enjoy your laptop more on every OS, not only APPLE's one.
+This EFI, is purely minimalist in therms of config used options, this will keeps macOS in a more stable state. In addition, the ACPI battery code wasn't used, which needs much more ACPI renames & code deletes with a new battery table patch under EC Device that needs to be added. This is very careful for HP Inside Bios, that doesn't like does kind of tweakings, to prevent it from possible corruption: the Battery is the best exemple as of possible corruption under windows & other OS's is expected. But, a kext is now is used to manage Battery Level & Charging, including the AC Power Adapter. The conclusion: "The cleanest means The stable".
+
+The OpenCore version used is the 0.9.3, and you'll find in the releases section, every opencore version that ive added to this repository. You'll have to generate your own credible serials, add your proper Wireless Kexts as far as you swap your original WiFi card with another one.
+Keep in mind, that if you're using this build for another similar HP laptop, with the same Intel CPU generation (Broadwell), you'll have to generate your own CPUFriendData kernel extension to lower the CPU frequency, otherwise the frequency will remain over the 1,20 GHz.
+
+Last and not least, for better display comfort, i'll recomand you changing the LCD panel with FHD 1920 * 1080. This will let you enjoy your laptop more on every OS, not only APPLE's one.
+
 
 ## Things that you may need:
 - Acidanthera's Life's Easier for us: [Here](https://github.com/acidanthera).
@@ -90,6 +95,7 @@ For better display comfort, i'll recomand you changing the LCD panel with FHD 19
 - gibMacOS: [Here](https://github.com/corpnewt/gibMacOS).
 - One-Key-CPUFriend: [Here](https://github.com/stevezhengshiqi/one-key-cpufriend).
 - ECEnabler Kext (Battery Infos): [Here](https://github.com/1Revenger1/ECEnabler).
+
 
 ## Special Thanks
 - Every Hackintosh Community: Specially InsanelyMac, Olarila, AppleLife.ru, Hackintosh-Montreal.com, Hackintosh-Forum.de, Hackintosh-Inc.de and many, but never:
