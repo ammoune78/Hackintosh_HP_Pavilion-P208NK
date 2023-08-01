@@ -35,37 +35,36 @@ This laptop can let you install 3 drive in the same time:
 
 ## Audio
 
-![Audio](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/89db4766-ec7b-4c5d-8de2-7277be4cfc67)
+![Audio](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/e41081ab-f2d6-489c-a2b5-121d8e1807dd)
 
 ## Camera
 
-![Camera](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/0a1d5446-b131-4959-9300-ad79f7bffb70)
+![Camera](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/330b532c-d78c-4372-b778-cabd7d2ea6fc)
 
 ## Ethernet
 
-![Ethernet](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/5be41ad9-e5a2-430f-b949-ad2b73d808d0)
+![Ethernet](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/c70d1e00-916a-41c7-8942-b047df4b4a49)
 
 ## Graphics
 
-![Graphics](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/051b4f47-3d88-4dca-9e98-237a9ad8d151)
+![Graphics](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/739b761d-394f-442f-a05a-f5213a86a819)
 
 ## PCI
 
-![PCI](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/59987825-0324-4cc1-bdf3-907219c1674c)
+![PCI](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/3c5af9ac-2e75-4d2d-9ef1-e49e4f938c58)
 
 ## Power
 
-![Power](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/1bbcc209-0646-41bc-9708-a8f1ecf5fa8f)
-
+![Power](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/efc745f9-d2eb-48e7-b7ef-8ce9274e2216)
 
 ## SATA
 
-![SATA](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/de07a139-eb2f-4bb5-a084-a02783cd4750)
-
+![SATA](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/979cec03-7825-4065-9e6d-4872abaec20a)
 
 ## USB
 
-![USB](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/6834eebe-c028-4439-bc5c-8ad606f5e470)
+![USB](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/fdb3e3af-2ac4-4d82-a35a-fccd7f17eee2)
+
 
 
 ## What Works:
