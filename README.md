@@ -40,8 +40,8 @@ Kee in ming that if you're using this build for another similar HP lapto with th
 For better display comfort, i'll recomand you changing the LCD panel with FHD 1920 * 1080. This will let you enjoy your laptop more on every OS, not only APPLE's one.
 
 ## Things that you may need:
-Acidanthera's Life's Easier for us: [Here]([url](https://github.com/acidanthera))
-OpenCore: [Here]([url](https://github.com/acidanthera/OpenCorePkg))
+Acidanthera's Life's Easier for us: [Here]([url]https://github.com/acidanthera)
+OpenCore: [Here]([url]https://github.com/acidanthera/OpenCorePkg)
 Python: [Here]([url](https://www.python.org/downloads/))
 CorpNewt's Life's Easier for us: [Here]([url](https://github.com/corpnewt))
 ProperTree: [Here]([url](https://github.com/corpnewt/ProperTree))
