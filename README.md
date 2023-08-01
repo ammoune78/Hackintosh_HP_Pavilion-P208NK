@@ -13,7 +13,7 @@ This laptop can let you install 3 drive in the same time:
 3- M.2 Slot on the down side of the motherboard.
 
 ## Laptop Specifications:
-- Intel core i7-5770
+- Intel core i7-5500u
 - Intel 5500 HD Graphics
 - nVIDIA GeForce 820m
 - 1366 x 768 LCD Panel
