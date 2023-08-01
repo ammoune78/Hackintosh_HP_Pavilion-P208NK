@@ -10,7 +10,7 @@ This laptop can let you install 3 drive in the same time:
 2- Swapping the Optical Drive with Caddy
 3- M.2 Slot on the down side of the motherboard.
 
-## Laptop Specifications:
+## [Laptop Specifications](https://support.hp.com/ca-fr/document/c04536807):
 - Intel core i7-5500u
 - Intel 5500 HD Graphics
 - nVIDIA GeForce 820m
