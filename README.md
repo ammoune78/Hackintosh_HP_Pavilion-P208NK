@@ -40,23 +40,23 @@ Kee in ming that if you're using this build for another similar HP lapto with th
 For better display comfort, i'll recomand you changing the LCD panel with FHD 1920 * 1080. This will let you enjoy your laptop more on every OS, not only APPLE's one.
 
 ## Things that you may need:
-Acidanthera's Life's Easier for us: [Here](https://github.com/acidanthera)
-OpenCore: [Here](https://github.com/acidanthera/OpenCorePkg)
-Python: [Here](https://www.python.org/downloads/)
-CorpNewt's Life's Easier for us: [Here](https://github.com/corpnewt)
-ProperTree: [Here](https://github.com/corpnewt/ProperTree)
-GenSMBIOS: [Here](https://github.com/corpnewt/GenSMBIOS)
-gibMacOS: [Here](https://github.com/corpnewt/gibMacOS)
-One-Key-CPUFriend: [Here](https://github.com/stevezhengshiqi/one-key-cpufriend)
-ECEnabler Kext (Battery Infos): [Here](https://github.com/1Revenger1/ECEnabler)
+- Acidanthera's Life's Easier for us: [Here](https://github.com/acidanthera).
+- OpenCore: [Here](https://github.com/acidanthera/OpenCorePkg).
+- Python: [Here](https://www.python.org/downloads/).
+- CorpNewt's Life's Easier for us: [Here](https://github.com/corpnewt).
+- ProperTree: [Here](https://github.com/corpnewt/ProperTree).
+- GenSMBIOS: [Here](https://github.com/corpnewt/GenSMBIOS).
+- gibMacOS: [Here](https://github.com/corpnewt/gibMacOS).
+- One-Key-CPUFriend: [Here](https://github.com/stevezhengshiqi/one-key-cpufriend).
+- ECEnabler Kext (Battery Infos): [Here](https://github.com/1Revenger1/ECEnabler).
 
 ## Special Thanks
-- Every Hackintosh Community: Specially InsanelyMac, Olarila, AppleLife.ru, Hackintosh-Montreal.com, Hackintosh-Forum.de, Hackintosh-Inc.de and many, but never tonymacx86 for "charlatanism things" no never! 
+- Every Hackintosh Community: Specially InsanelyMac, Olarila, AppleLife.ru, Hackintosh-Montreal.com, Hackintosh-Forum.de, Hackintosh-Inc.de and many, but never >tonymacx86 for "charlatanism things" no never. ! 
 - vit9696 and The HermitCrabs Lab.
 - CorpNewt
 - Laura Müller (Mieze)
 - [FormerUser-435514]([url](https://www.tonymacx86.com/threads/guide-hp-pavilion-15-ab216tx-catalina-using-opencore.285539/)) for his guid, who helped me a lot in thinking that my laptop is able to receive macOS installation.
 - [dkoluris]([url](https://github.com/dkoluris/HP-PROBOOK-470-G2-OpenCore)) for using a simple and clean EFI folder without ACPI altering, and only using ECEnabler for battery management & infos
 
-## My bad salutation to TonyMacX86
+## My bad salutation to TonyMacX86>
 - you have a lot of bad track records, especially banning users for doing nothing wrong, bad, things prohibited by your policy that you don't follow in every aspect. I'm not the first banned, and sertennely not the last one. And i use these words to prevent people from your Dark and impostor devilous step. 
