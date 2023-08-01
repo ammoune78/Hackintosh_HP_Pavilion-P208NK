@@ -1,4 +1,4 @@
-# Hackintosh_HP_Pavilion-P208NK
+![Ethernet](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/0e104dda-57a3-42ff-91bd-806654c121db)# Hackintosh_HP_Pavilion-P208NK
 
 ![HP-Pavilion_P208NK](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/133e37a6-b11b-4146-9b4d-8e3f08e09b39)
 
@@ -26,6 +26,47 @@ This laptop can let you install 3 drive in the same time:
 - Realtek SD-Card
 - 2x USB 3.0 including one operating in backward compatibility & 1x USB 2.0
 - Mouse & Trackpad fully working on macOS including gestures
+
+# Screenshots Refence:
+
+## About
+
+![About](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/93e863e6-222f-4b5b-a009-eb481b523a6e)
+
+## Audio
+
+![Audio](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/89db4766-ec7b-4c5d-8de2-7277be4cfc67)
+
+## Camera
+
+![Camera](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/0a1d5446-b131-4959-9300-ad79f7bffb70)
+
+## Ethernet
+
+![Ethernet](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/5be41ad9-e5a2-430f-b949-ad2b73d808d0)
+
+## Graphics
+
+![Graphics](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/051b4f47-3d88-4dca-9e98-237a9ad8d151)
+
+## PCI
+
+![PCI](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/59987825-0324-4cc1-bdf3-907219c1674c)
+
+## Power
+
+![Power](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/1bbcc209-0646-41bc-9708-a8f1ecf5fa8f)
+
+
+## SATA
+
+![SATA](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/de07a139-eb2f-4bb5-a084-a02783cd4750)
+
+
+## USB
+
+![USB](https://github.com/ammoune78/Hackintosh_HP_Pavilion-P208NK/assets/6939542/6834eebe-c028-4439-bc5c-8ad606f5e470)
+
 
 ## What Works:
 - Everything (*x 2)
