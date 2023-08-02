@@ -16,7 +16,7 @@ This laptop can let you install 3 drive in the same time:
 ## [Laptop Specifications](https://support.hp.com/ca-fr/document/c04536807):
 - Intel core i7-5500u
 - Intel 5500 HD Graphics
-- nVIDIA GeForce 820m
+- nVIDIA GeForce 840m
 - 1366 x 768 LCD Panel
 - 8 GB SamSung RAM DDR3 1600MHz
 - 1 TB Toshiba Hard Drive Disk
@@ -72,7 +72,7 @@ This laptop can let you install 3 drive in the same time:
 
 
 ## What doesn't works:
-- nVIDIA GeForce 820m *
+- nVIDIA GeForce 840m *
 - Original Wireless card needs to be replaced *
 
 
